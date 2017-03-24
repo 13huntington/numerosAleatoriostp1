@@ -10,6 +10,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     private ModeloTablaAleatoriosGenerados modeloTablaAleatorios;
     private ModeloTablaFrecuencia modeloTablaFrecuencia;
     private ControladorVentanaPrincipal controlador;
+    private int git_prueba;
 
     public VentanaPrincipal() {
         initComponents();
